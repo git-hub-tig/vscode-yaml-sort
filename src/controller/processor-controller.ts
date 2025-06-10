@@ -35,7 +35,7 @@ export class ProcessorController {
     }
 
     if (this.settings.useArrayProcessor) {
-      this.arrayprocessor = new ArrayProcessor(this.text)
+      this.arrayprocessor = new ArrayProcessor(this.text, this.settings.indent)
       this.arrayprocessor.preprocess()
       this.text = this.arrayprocessor.text
     }
