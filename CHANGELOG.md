@@ -1,4 +1,15 @@
 # Changelog
+# 6.7.0 - Jun 10, 2025
+* Solve formatting issue of arrays where the dash (-) in a YAML list item is followed by a newline and indentation (like this): 
+```yaml
+-
+  key: value
+```
+instead of being on the same line as the key (like this):
+```yaml
+- key: value
+```
+
 # 6.6.2 - Mar 20, 2025
 📦 Dependencies
 * Update dependencies to latest versions
