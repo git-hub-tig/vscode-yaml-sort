@@ -1,5 +1,5 @@
 import { GenericProcessor } from "./generic-processor"
-import { Logger } from "./logger"
+import { Logger } from "../util/logger"
 
 export class ArrayProcessor extends GenericProcessor {
   private indent: number;
