@@ -7,7 +7,7 @@
     "vscode": "^1.49.0"
   },
   "license": "MIT",
-  "publisher": "PascalReitermann93",
+  "publisher": "Gxl",
   "repository": {
     "type": "git",
     "url": "https://github.com/pascalre/vscode-yaml-sort"

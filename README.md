@@ -166,7 +166,7 @@ The Octal Processor makes the extension keeping octal value like 0744.
 
 # 🎉 Support
 
-If you like YAML Sort, please feel free to [rate it](https://marketplace.visualstudio.com/items?itemName=PascalReitermann93.vscode-yaml-sort&ssr=false#review-details) on the marketplace.
+If you like YAML Sort, please feel free to [rate it](https://marketplace.visualstudio.com/items?itemName=Gxl.vscode-yaml-sort&ssr=false#review-details) on the marketplace.
 
 If you miss something or found a bug, please let me know and [open an issue](https://github.com/pascalre/vscode-yaml-sort/issues/new) on this project on GitHub. Do not hesitate to open a pull request with your changes.
 
