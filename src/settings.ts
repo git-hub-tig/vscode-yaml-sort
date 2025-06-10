@@ -39,6 +39,7 @@ export class Settings {
     customSortKeywords2 = this.getCustomSortKeywords(2)
     customSortKeywords3 = this.getCustomSortKeywords(3)
     emptyLinesUntilLevel = this.getNumber("emptyLinesUntilLevel")
+    preserveAnchorNames = true
     forceQuotes = this.getBoolean("forceQuotes")
     indent = this.getNumber("indent")
     lineWidth = this.getNumber("lineWidth")

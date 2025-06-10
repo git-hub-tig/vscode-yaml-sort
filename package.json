@@ -1,6 +1,6 @@
 {
   "name": "vscode-yaml-sort",
-  "displayName": "YAML Sort",
+  "displayName": "YAML Sort v2",
   "description": "This VS Code extension exposes the possibility to sort, format and validate yaml files.",
   "version": "6.6.2",
   "engines": {
