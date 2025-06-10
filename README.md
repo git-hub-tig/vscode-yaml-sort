@@ -1,4 +1,4 @@
-# YAML Sort
+# YAML Sort v2
 YAML Sort extends VS Code to sort, format and validate YAML files.
 
 [![Coverage Status](https://coveralls.io/repos/github/pascalre/vscode-yaml-sort/badge.svg?branch=master)](https://coveralls.io/github/pascalre/vscode-yaml-sort?branch=master)

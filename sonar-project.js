@@ -4,7 +4,7 @@ scanner(
   {
     serverUrl: "http://localhost:9000",
     options : {
-      "sonar.projectName": "YAML Sort",
+      "sonar.projectName": "YAML Sort v2",
       "sonar.projectKey": "vscode-yaml-sort",
       "sonar.sources": "src",
       "sonar.language": "typescript",
