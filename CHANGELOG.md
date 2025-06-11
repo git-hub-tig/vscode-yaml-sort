@@ -9,6 +9,7 @@ instead of being on the same line as the key (like this):
 ```yaml
 - key: value
 ```
+* Solve known anchor issue, will preserve the original YAML anchor names instead of converting them to *ref
 
 # 6.6.2 - Mar 20, 2025
 📦 Dependencies

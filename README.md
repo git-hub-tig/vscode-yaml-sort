@@ -1,5 +1,7 @@
 # YAML Sort v2
-Solve YAML Sort issues and keep up with latest VSCode
+Solve YAML Sort issues and keep up with latest VSCode, detail in [CHANGELOG](CHANGELOG.md).
+- Fix formatting issue of arrays caused by leading dash (-)
+- Fix known anchor issue
 
 YAML Sort extends VS Code to sort, format and validate YAML files.
 
@@ -166,16 +168,13 @@ The Octal Processor makes the extension keeping octal value like 0744.
 
 # 🎉 Support
 
-If you like YAML Sort, please feel free to [rate it](https://marketplace.visualstudio.com/items?itemName=Gxl.vscode-yaml-sort&ssr=false#review-details) on the marketplace.
+If you like YAML Sort, please feel free to [rate it](https://marketplace.visualstudio.com/items?itemName=Gxl.vscode-yaml-sort-v2&ssr=false#review-details) on the marketplace.
 
-If you miss something or found a bug, please let me know and [open an issue](https://github.com/pascalre/vscode-yaml-sort/issues/new) on this project on GitHub. Do not hesitate to open a pull request with your changes.
+If you miss something or found a bug, please let me know and [open an issue](https://github.com/git-hub-tig/vscode-yaml-sort/issues/new) on this project on GitHub. Do not hesitate to open a pull request with your changes.
 
-Check [open issues](https://github.com/pascalre/vscode-yaml-sort/issues) on GitHub.
+Check [open issues](https://github.com/git-hub-tig/vscode-yaml-sort/issues) on GitHub.
 
-## Known problems
-
-Be careful with anchors and references, these don't work very well in this extension.
 
 # 📝 License
 
-YAML Sort is licensed under the [MIT License](https://raw.githubusercontent.com/pascalre/vscode-yaml-sort/master/LICENSE).
+YAML Sort is licensed under the [MIT License](https://raw.githubusercontent.com/git-hub-tig/vscode-yaml-sort/main/LICENSE).
