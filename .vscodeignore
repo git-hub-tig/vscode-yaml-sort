@@ -8,3 +8,8 @@ vsc-extension-quickstart.md
 **/tslint.json
 **/*.map
 **/*.ts
+**/*.log
+
+# Ignore build artifacts and configuration files
+node_modules
+esbuild.js
