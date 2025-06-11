@@ -1,4 +1,7 @@
 # Changelog
+# 6.7.3 - Jun 11, 2025
+- Support vscode.dev and bundled with half size
+
 # 6.7.0 - Jun 10, 2025
 * Solve formatting issue of arrays where the dash (-) in a YAML list item is followed by a newline and indentation (like this): 
 ```yaml

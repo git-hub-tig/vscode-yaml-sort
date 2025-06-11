@@ -2,6 +2,7 @@
 Solve YAML Sort issues and keep up with latest VSCode, detail in [CHANGELOG](CHANGELOG.md).
 - Fix formatting issue of arrays caused by leading dash (-)
 - Fix known anchor issue
+- Support vscode.dev and bundled with half size
 
 YAML Sort extends VS Code to sort, format and validate YAML files.
 
