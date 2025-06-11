@@ -4,5 +4,6 @@ out/
 .scannerwork/
 .vscode-test/
 .nyc_output/
-.DS_Store
+**/.DS_Store
 coverage/
+**/*.log
